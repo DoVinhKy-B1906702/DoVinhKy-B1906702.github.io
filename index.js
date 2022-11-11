@@ -18,7 +18,7 @@ const handleClick = () => {
     displayOn.style.color = '#44bd32';
     displayOff.style.color = '#f5f6fa';
     displayLove.style.display ='block';
-
+    displayNoLove.style.display ='none';
     // if(displayAnh.classList.contains('img-anh')) {
     //     displayAnh.classList.remove('img-anh')
     // }
