@@ -39,6 +39,7 @@ const handleClickOff = () => {
     displayMatAnh.style.display ='none';
     displayKhongMatAnh.style.display ='none';
     displayLove.style.display ='none';
+    displayNoLove.style.display ='none';
     // if(displayAnh.classList.contains('img-anh')) {
     //     displayAnh.classList.remove('img-anh')
     // }
