@@ -68,5 +68,5 @@ const handleLove = () => {
 const handleNoLove = () => {
     displayNoLove.style.display ='none';
     displayLove.style.display ='block';
-    displayText.innerHTML = 'Quá là dễ thương';
+    displayText.innerHTML = 'Quá là dễ thương!';
 }
