@@ -63,10 +63,10 @@ const displayNoLove = document.querySelector('.noLove');
 const handleLove = () => {
     displayNoLove.style.display ='block';
     displayLove.style.display ='none';
-    displayText.innerHTML = 'I love U';
+    displayText.innerHTML = 'Quá là xinh';
 }
 const handleNoLove = () => {
     displayNoLove.style.display ='none';
     displayLove.style.display ='block';
-    displayText.innerHTML = 'I do not love U';
+    displayText.innerHTML = 'Quá là dễ thương';
 }
